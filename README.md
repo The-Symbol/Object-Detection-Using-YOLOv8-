@@ -39,6 +39,8 @@ Object-Detection-Using-YOLOv8-
    Install Python dependencies using pip:
    ```bash
    pip install flask opencv-python
+   pip install cv2
+   pip install ultralyitcs
    ```
 
 3. **Download YOLOv8 Model**:
